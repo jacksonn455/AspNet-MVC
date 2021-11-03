@@ -1,0 +1,3 @@
+O curso completo de ASP.NET C# com MVC 5 possui 61 video aulas, neste curso é mostrado o passo a passo de como desenvolver sistemas na nova estrutura MVC, é explicado sobre os models, controllers e views, tudo que o aluno precisa saber para entender esta excelente estrutura que o mercado de hoje tanto cobra dos programadores, adquira já o curso e se prepare para o mercado de trabalho.
+
+Fique por dentro do que há de novo no mercado de trabalho, esta estrutura em MVC 5 é o que mais as empresas tem cobrado hoje em dia, seja um grande programador, poderei te ajudar nessa caminhada, adquira já o curso e comece a desenvolver seus sistemas web.
