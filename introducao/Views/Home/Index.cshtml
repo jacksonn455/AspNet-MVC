@@ -1,0 +1,32 @@
+﻿@model introducao.Models.Pessoa
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Curso de ASP MVC</h2>
+<p>Aluno Jackson Felipe Magnabosco</p>
+
+<br />
+<br />
+
+<!-- ViewData  -->
+<p>@ViewData["PessoaId"]</p>
+<p>@ViewData["Nome"]</p>
+<p>@ViewData["Tipo"]</p>
+
+<br />
+<br />
+
+<!-- ViewBag  -->
+<p>@ViewBag.Id</p>
+<p>@ViewBag.Nome</p>
+<p>@ViewBag.Tipo</p>
+
+<br />
+<br />
+
+<!-- View Tipada  -->
+<p>@Model.PessoaId </ p >
+<p>@Model.Nome </ p >
+<p>@Model.Tipo </ p >
